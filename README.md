@@ -2,7 +2,7 @@
 
 
 
-Spark and Sciket Learn
+Spark and Scikit Learn
 
 
 
